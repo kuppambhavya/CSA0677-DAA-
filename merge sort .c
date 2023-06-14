@@ -89,5 +89,5 @@ int main() {
     printf("\n");
     count++;
     printf("time complexity is %d",count);
-    return 0;
+Â Â Â Â returnÂ 0;
 }
