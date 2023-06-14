@@ -29,5 +29,5 @@ int main() {
     printf("The largest element is %d\n", max);
     count++;
     printf("time complexity is %d",count);
-    return 0;
+Â Â Â Â returnÂ 0;
 }
